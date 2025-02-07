@@ -1,0 +1,8 @@
+.icon{
+    width: 140px;
+    height: 148px;
+    box-sizing: border-box;
+    position: absolute;
+    left: 148px;
+    z-index: 1;
+}

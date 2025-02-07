@@ -1,0 +1,18 @@
+.cn1{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    background-color:goldenrod;
+    padding: 130px;
+    height: 500px;
+    width: 100px;
+    font-size: large;
+}
+.ic{
+    width: 140px;
+    height: 148px;
+    box-sizing: border-box;
+    position: absolute;
+    left: 148px;
+    z-index: 1;
+}
